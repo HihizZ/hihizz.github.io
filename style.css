@@ -543,7 +543,7 @@ section .title::after{
     padding: 50px 0;
     overflow: hidden;
     position: relative;
-    
+
 }
 
 
@@ -560,7 +560,7 @@ section .title::after{
     display: flex;
     transition: transform 0.5s ease-in-out;
     width: 100%; /* Dynamically updated in JavaScript */
-    
+
 }
 
 .project {

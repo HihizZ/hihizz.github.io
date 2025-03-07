@@ -6,13 +6,13 @@ With a strong foundation in cloud platforms and healthcare data systems, I speci
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairis&label=Profile%20views&color=0e75b6&style=flat" alt="sairis" /> </p>
 
-<img align="Right" alt="Coding" width="400" src="https://github.com/sairish/sairish.github.io/blob/main/images/Animated%20Img.avif"> 
+<img align="Right" alt="Coding" width="400" src="https://github.com/sairish/sairish.github.io/blob/main/images/Animated%20Img.avif">
 
 - 🌱 I’m currently learning **Big Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://sairprofile](https://sairprofile)
 
-- 📫 How to reach me **xxxx@gmail.com**
+- 📫 How to reach me **chongchishing@hotmail.com**
 
 - 📄 Know about my experiences [https://ResumeLink](https://ResumeLink)
 
@@ -39,7 +39,7 @@ With a strong foundation in cloud platforms and healthcare data systems, I speci
 **📊Data Analysis & Visualization:** Tableau, Power BI, Excel, Python (Pandas, NumPy, Matplotlib, Seaborn) \
 **🗂️Big Data Technologies:** Apache Spark, PySpark, Snowflake, Hadoop, Hive\
 **🛢️Database Management:** Data warehouse, Data Lake, Relational Databases (MySQL, MSSQL), SSMS\
-**🤖 Machine Learning:** Supervised & Unsupervised Learning, Regression, Classification, Clustering, Scikit- 
+**🤖 Machine Learning:** Supervised & Unsupervised Learning, Regression, Classification, Clustering, Scikit-
  learn, TensorFlow, Keras, Model Deployment (AWS SageMaker)\
 **🔄 Others:** Data Transformation, Data Validation, Data Cleaning, Data Modeling
 
