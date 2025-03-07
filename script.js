@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Data Engineer", "Data Analyst","Data Scientist"],
+        strings: ["IT Project Manager", "Business Analyst", "Data Scientist"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Data Engineer", "Data Analyst","Data Scientist"],
+        strings: ["IT Project Manager", "Business Analyst", "Data Scientist"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -75,7 +75,7 @@ $(document).ready(function(){
 
 /*newly added */
 const skillsData = {
-    "data-analytics": ["Tableau", "Power BI", "Business Intelligence (BI)","Pandas","Numpy","Matplot Lib","Excel"],
+    "data-analytics": ["Tableau", "Power BI", "Business Intelligence (BI)","Pandas","Numpy","Excel"],
     "Data Engineering Tools":  ["ETL (Extract, Transform, Load)", "Data Modeling", "Spark", "Data Warehousing", "Snowflake","Informatica"],
     "Data Science and Machine Learning": ["Data Analytics", "Statistical Analysis", "Predictive Modeling","Regression Models","Neural Networks","Random Forest","Decision Trees","Supervised & UnSupervised Methodologies"],
     "Cloud Platforms": ["AWS (Amazon Web Services)", "Azure Cloud","Aws Glue","Athena","Aws s3","Aws RDS","Amazon Redshift"],
